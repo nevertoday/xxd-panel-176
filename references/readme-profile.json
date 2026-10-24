@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 176｜Hand-drawn Ritual Diagram in Shallow Relief: places the photo's most recognisable subject at the heart of an intricate, strictly ordered hand-drawn ritual diagram — concentric rings, radial axes, orbits, polygons, arcs, broken rings, nodes, fine patterns and repeated emblems, dense at the centre and thinning outward — in fine gongbi-like lines with slight hand error and a light isometric shallow relief. Bright colours from the photo (sky blue, lake teal, fresh green, warm yellow, coral) on a near-white ground, very large whitespace, a few quiet words; no sci-fi glow or game skill circle. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-176 or asks for a mandala-like ritual diagram or intricate fine-line circle from a photo.",
+  "short_description": "工笔阵盘微立体志：让照片主体坐镇一座工笔细线画的精密阵盘中心，层层浮起又向外疏开",
+  "zh-CN": {
+    "name": "工笔阵盘微立体志",
+    "tagline": "让照片主角坐镇一座工笔细线画成的精密阵盘中心，层层浮起，越往外越疏。",
+    "look": "照片里最好认的主体成为一座手绘阵盘的核心，阵盘由同心圆环、放射轴线、环形轨迹、几何切片、多边形、弧线、断环、节点、细密纹样、方向符号和重复图腾严格有序地组成，主体周围最密，向外一层层疏开。线条是纤细精致的工笔式手绘，有轻微提按和人工误差，部分圆环和台基带一点等距视角的高低错层、浅浮雕和悬浮感。颜色从照片里挑最鲜亮的，调成天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉这类明快色，背景是很浅的暖白或象牙白。阵盘四周大片留白，少量字落在留白或阵盘边缘。",
+    "traits": [
+      "复杂阵盘",
+      "工笔细线",
+      "微立体层级",
+      "鲜活配色",
+      "近白背景大留白"
+    ],
+    "good": [
+      "有中心感、适合被围绕的主体：一朵花、一只猫、一盏灯、一个坐着的人",
+      "本身就有对称或放射结构的对象：向日葵、钟表、穹顶、旋转楼梯",
+      "想做成仪式感海报、品牌主视觉、唱片封面或纹样设计的照片"
+    ],
+    "poor": [
+      "需要看到原场景和环境的照片，这里只留主体和阵盘",
+      "暗沉、灰调或想保留暗色背景的照片，这里一定是近白底和明快色",
+      "想要赛博发光、游戏技能圈、科技 UI 或真实 3D 法阵的需求"
+    ]
+  },
+  "en": {
+    "name": "Hand-drawn Ritual Diagram in Shallow Relief",
+    "tagline": "Seats the star of your photo at the centre of an intricate fine-line ritual diagram that rises in layers and opens outward.",
+    "look": "The most recognisable subject becomes the core of a hand-drawn diagram built in strict order from concentric rings, radial axes, orbits, geometric slices, polygons, arcs, broken rings, nodes, fine patterns, direction marks and repeated emblems, densest around the subject and opening out layer by layer. The lines are fine, delicate gongbi-style drawing with slight pressure changes and hand error, and some rings and platforms step up or float in a light isometric shallow relief. The brightest colours in the photo become fresh tones such as sky blue, lake teal, fresh green, warm yellow, coral and peach, on a very pale warm-white or ivory ground. Wide white space surrounds the diagram, with a few words in it or at the diagram's edge.",
+    "traits": [
+      "Intricate diagram",
+      "Fine gongbi lines",
+      "Shallow relief layers",
+      "Fresh colour",
+      "Near-white ground"
+    ],
+    "good": [
+      "Subjects with a strong centre that suit being encircled: a flower, a cat, a lamp, a seated person",
+      "Things with symmetry or radial structure: a sunflower, a clock, a dome, a spiral staircase",
+      "Photos you want as a ceremonial poster, brand key visual, record cover or pattern design"
+    ],
+    "poor": [
+      "Photos where the original setting must show, since only the subject and the diagram remain",
+      "Dark, greyish photos or requests to keep a dark background, as the result always has a near-white ground and bright colours",
+      "Requests for a cyber glow, a game skill circle, sci-fi interface graphics or a realistic 3D magic circle"
+    ]
+  },
+  "ja": {
+    "name": "細密手描きの浅浮彫儀式図",
+    "tagline": "写真の主役を、工筆の細線で描いた精緻な陣図の中心に据え、層を重ねて浮かせ、外へ向かってまばらにします。",
+    "look": "写真でいちばん目立つ主役が、手描きの陣図の核になります。陣図は同心円、放射軸、環状の軌跡、幾何学の切片、多角形、弧、途切れた輪、節点、細かな文様、方向を示す記号、繰り返す紋章を厳密な秩序で組んだもので、主役のまわりがいちばん密で、外へ一層ずつ開いていきます。線は工筆画のように細く繊細で、わずかな筆圧の変化と手の誤差があり、一部の輪や台座は軽い等角投影の段差、浅浮彫、浮遊感を持ちます。色は写真でいちばん明るい色を選び、空色、湖の青緑、若葉色、暖かな黄、珊瑚色、桃色のような軽やかな色にし、地はごく淡い温かな白か象牙色です。陣図のまわりは広い余白で、言葉は余白か陣図の縁に少しだけ入ります。",
+    "traits": [
+      "精緻な陣図",
+      "工筆の細線",
+      "浅浮彫の層",
+      "生き生きした色",
+      "白に近い地と余白"
+    ],
+    "good": [
+      "中心感があり、まわりを囲むのが似合う主役：花、猫、ランプ、座る人",
+      "もともと対称や放射状の構造がある物：ひまわり、時計、ドーム、らせん階段",
+      "儀式的なポスター、ブランドのキービジュアル、レコードジャケット、文様デザインにしたい写真"
+    ],
+    "poor": [
+      "元の場面や環境を見せたい写真（主役と陣図だけになります）",
+      "暗く灰色っぽい写真や暗い背景を残したい依頼（必ず白に近い地と明るい色になります）",
+      "サイバーな発光、ゲームのスキル円、SF 的な UI、写実的な 3D の魔法陣を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "정교한 손그림 의식 도형 부조",
+    "tagline": "사진 속 주인공을 공필 세선으로 그린 정교한 진법 도형의 중심에 앉히고, 층층이 띄우며 바깥으로 성기게 펼칩니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공이 손그림 진법 도형의 중심이 됩니다. 도형은 동심원, 방사 축, 원형 궤도, 기하 조각, 다각형, 호, 끊긴 고리, 마디, 촘촘한 무늬, 방향 기호, 반복되는 문장을 엄격한 질서로 짠 것으로, 주인공 주변이 가장 빽빽하고 바깥으로 한 겹씩 성기게 열립니다. 선은 공필화처럼 가늘고 섬세하며 약간의 필압 변화와 손의 오차가 있고, 일부 고리와 받침은 가벼운 등각 투영의 높낮이, 얕은 부조, 떠 있는 느낌을 가집니다. 색은 사진에서 가장 밝은 색을 골라 하늘색, 호수빛 청록, 연두, 따뜻한 노랑, 산호 주황, 복숭아빛 분홍 같은 산뜻한 색으로 바꾸고, 바탕은 아주 연한 따뜻한 흰색이나 상아색입니다. 도형 주변은 넓은 여백이고, 글은 여백이나 도형 가장자리에 조금만 들어갑니다.",
+    "traits": [
+      "정교한 진법 도형",
+      "공필 세선",
+      "얕은 부조 층위",
+      "생기 있는 색",
+      "흰빛 바탕과 여백"
+    ],
+    "good": [
+      "중심감이 있어 둘러싸기 좋은 주인공: 꽃, 고양이, 등불, 앉아 있는 사람",
+      "원래 대칭이나 방사 구조가 있는 대상: 해바라기, 시계, 돔, 나선 계단",
+      "의식 같은 포스터, 브랜드 키 비주얼, 음반 커버, 문양 디자인으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "원래 장면과 환경이 보여야 하는 사진(주인공과 도형만 남습니다)",
+      "어둡고 칙칙한 사진이나 어두운 배경을 살리려는 요청(항상 흰빛 바탕과 밝은 색이 됩니다)",
+      "사이버 발광, 게임 스킬 원, SF 인터페이스, 사실적인 3D 마법진을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مخطط طقسي مرسوم يدوياً بنحت ضحل",
+    "tagline": "يُجلس بطل صورتك في قلب مخطط طقسي دقيق مرسوم بخطوط رفيعة، يرتفع طبقات وينفتح نحو الخارج.",
+    "look": "يصبح أوضح عنصر في الصورة قلب مخطط مرسوم يدوياً يُبنى بنظام صارم من حلقات متحدة المركز ومحاور شعاعية ومدارات وشرائح هندسية ومضلعات وأقواس وحلقات متقطعة وعُقد وزخارف دقيقة وعلامات اتجاه وشعارات متكررة، أكثف ما يكون حول العنصر ثم ينفتح طبقة بعد طبقة. الخطوط رفيعة ورقيقة على طريقة رسم الغونغبي الصيني الدقيق، فيها تغيّر خفيف في الضغط وأثر اليد، وبعض الحلقات والقواعد ترتفع أو تطفو في نحت ضحل بمنظور متساوي القياس خفيف. تصبح أزهى ألوان الصورة درجات منعشة مثل أزرق السماء وفيروزي البحيرة والأخضر الغض والأصفر الدافئ والمرجاني والخوخي، على أرضية بيضاء دافئة أو عاجية فاتحة جداً. يحيط بالمخطط فراغ أبيض واسع، فيه كلمات قليلة أو عند حافة المخطط.",
+    "traits": [
+      "مخطط دقيق معقد",
+      "خطوط غونغبي رفيعة",
+      "طبقات نحت ضحل",
+      "ألوان منعشة",
+      "أرضية قريبة من الأبيض"
+    ],
+    "good": [
+      "عناصر ذات مركز قوي يناسبها أن تُحاط: زهرة، قطة، مصباح، شخص جالس",
+      "أشياء متماثلة أو شعاعية البنية: زهرة دوار الشمس، ساعة، قبة، درج حلزوني",
+      "صور تريدها ملصقاً احتفالياً أو تصميماً رئيسياً لعلامة تجارية أو غلاف أسطوانة أو تصميم زخرفة"
+    ],
+    "poor": [
+      "صور يجب أن يظهر فيها المكان الأصلي، إذ لا يبقى إلا العنصر والمخطط",
+      "صور داكنة رمادية أو طلب إبقاء خلفية داكنة، فالنتيجة دائماً بأرضية قريبة من الأبيض وألوان زاهية",
+      "طلب توهج سيبراني أو دائرة مهارات ألعاب أو واجهات خيال علمي أو دائرة سحرية واقعية ثلاثية الأبعاد"
+    ]
+  }
+}
